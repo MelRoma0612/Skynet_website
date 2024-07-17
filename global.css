@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-manrope: "Manrope";
+  --font-oloron-tryout: "Oloron Tryout";
+  --font-sf-pro-display: "SF Pro Display";
+  --font-sf-pro-text: "SF Pro Text";
+  --font-tektur: "Tektur";
+
+  /* font sizes */
+  --font-size-9xl: 28px;
+  --font-size-18xl-9: 37.9px;
+  --font-size-8xl: 27px;
+  --font-size-26xl-6: 45.6px;
+  --font-size-11xl-1: 30.1px;
+  --font-size-18xl: 37px;
+  --font-size-lg-5: 18.5px;
+  --font-size-11xl-3: 30.3px;
+  --font-size-lgi-3: 19.3px;
+  --font-size-2xl: 21px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #202024;
+  --color-gray-200: #151822;
+  --color-gray-300: #0b0f19;
+  --color-darkgray: #9a9b9f;
+  --color-gainsboro-100: #efe4e4;
+  --color-steelblue: #236db1;
+  --color-tomato: #ff3e3e;
+  --color-silver: #c9c6c6;
+  --color-powderblue: #c3e2d9;
+  --color-dimgray-100: #717171;
+  --color-black: #000;
+  --color-chocolate: #dc6e2e;
+  --color-maroon: #480f0f;
+
+  /* Border radiuses */
+  --br-58xl-5: 77.5px;
+  --br-27xl: 46px;
+  --br-10xs: 3px;
+  --br-6xs: 7px;
+}

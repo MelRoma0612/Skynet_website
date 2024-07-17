@@ -1,0 +1,54 @@
+@media (max-width: 1200px){
+    .skynet3 {
+        top: 349px;
+        left: 131px;
+        font-size: 40px;
+        letter-spacing: 0.16em;
+        font-family: var(--font-tektur);
+        color: var(--color-white);
+        display: inline-block;
+        width: 757px;
+        height: 46px;
+        display: inline-block;
+        position: absolute;
+      }
+      .iphone {
+        position: absolute;
+        top: 729px;
+        left: 588px;
+        width: 652.6px;
+        height: 914px;
+        font-size: var(--font-size-2xl);
+        color: var(--color-black);
+        font-family: var(--font-tektur);
+        }
+    .iphone2 {
+        position: absolute;
+        top: 475px;
+        left: 1153.5px;
+        width: 598.9px;
+        height: 838.8px;
+        font-size: var(--font-size-lg-5);
+        color: var(--color-black);
+        font-family: var(--font-tektur);
+      }
+      .skynet-windows {
+        top: 2021px;
+        left: 505.5px;
+        font-size: 53px;
+        letter-spacing: 0.23em;
+        display: inline-block;
+        text-align: center;
+        width: 857px;
+      }
+      .skynet-container2 {
+        position: absolute;
+        top: 3578px;
+        left: 339.5px;
+        font-size: 64px;
+        letter-spacing: 0.03em;
+        display: inline-block;
+        color: #d0d0d0;
+        width: 1284px;
+      }
+}
